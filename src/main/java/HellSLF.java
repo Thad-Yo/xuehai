@@ -23,8 +23,7 @@ public class HellSLF {
         logger.trace("trace");
         logger.warn("warn");
         logger.error("error");
-
-        logger.info("你好，{},{}","贾晓飞","栾小黑");
+        
 
     }
 }
