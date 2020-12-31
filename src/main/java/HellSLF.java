@@ -23,7 +23,10 @@ public class HellSLF {
         logger.trace("trace");
         logger.warn("warn");
         logger.error("error");
-        
+        logger.error("error");
+        logger.error("error");
+        logger.error("error");
+
 
     }
 }
