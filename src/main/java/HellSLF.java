@@ -25,7 +25,6 @@ public class HellSLF {
         logger.error("error");
 
         logger.info("你好，{},{}","贾晓飞","栾小黑");
-        logger.trace("你好，{},{}","贾晓飞","栾小黑");
 
     }
 }
